@@ -10,4 +10,4 @@
 
 **_Сайт сверстан по методологии БЭМ._**
 
-Посмотреть проект: [https://practicum.yandex.ru/]
+Посмотреть проект: [https://olga-soloveva.github.io/russian-travel/index.html]
