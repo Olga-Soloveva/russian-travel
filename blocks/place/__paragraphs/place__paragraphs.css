@@ -1,0 +1,10 @@
+.place__paragraphs {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 550px) {
+  .place__paragraphs {
+    padding: 0 16px;
+  }
+}

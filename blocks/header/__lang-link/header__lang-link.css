@@ -10,17 +10,9 @@
   opacity: 0.8;
 }
 
-.header__lang-link_lang_ru {
-  border-bottom: #fff solid 1px;
-}
-
-.header__lang-link_lang_en {
-  margin-left: 18px;
-}
-
 @media screen and (max-width: 550px) {
   .header__lang-link {
     font-size: 18px;
-  line-height: 20px;
+    line-height: 20px;
   }
 }
