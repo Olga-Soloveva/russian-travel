@@ -14,4 +14,4 @@
 **_Сайт сверстан по методологии БЭМ, организация файловой структуры по Nested._**
 
 ## Посмотреть проект
-[https://olga-soloveva.github.io/russian-travel/index.html]
+https://olga-soloveva.github.io/russian-travel/index.html
